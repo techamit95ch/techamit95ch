@@ -19,7 +19,7 @@
 ### Full Stack Developer — Nonceblox Pvt. Ltd
 
 *Oct 2021 - Present*
-
+- 🔆 Orchestrated multiple React and React Native projects while mentoring junior developers.
 - 🛠️ Engineered web interfaces, optimized database schemas, and developed backend logic for peak performance.
 - 💡 Spearheaded creation of decentralized apps (dApps) with secure payment integration and cross-platform notifications.
 - 🌍 Explored blockchain's transformative potential across industries.
@@ -27,7 +27,7 @@
 ### PHP Developer — Techpromind, Tollygunge
 
 *Jan 2018 - Sept 2018 (9 Months)*
-
+- 🎖️ Managed multiple significant projects independently.
 - 🛠️ Architected robust backend systems and proprietary PHP framework components.
 - 👥 Contributed to government initiatives for enhanced functionality and security.
 
