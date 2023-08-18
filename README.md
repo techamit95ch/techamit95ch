@@ -10,7 +10,7 @@
 
 ## Summary
 
-🚀 Results-driven Full Stack Developer and React Native enthusiast with a passion for blockchain technology. Transitioning from React Native proficiency to becoming an avid blockchain enthusiast.
+🚀 Accomplished React Native Full Stack Developer with a passion for blockchain technology. Transitioning to become a zealous blockchain enthusiast. Experienced in leading projects and mentoring junior developers.
 
 ---
 
