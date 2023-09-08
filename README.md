@@ -1,40 +1,45 @@
 # Amit Chakraborty
 
-📍 Kolkata, West Bengal, India  
-📱 +91-9874173663 | +91-9123030842  
-📧 <amit98ch@gmail.com>  
-🌐 [Portfolio](https://amitchakraborty.netlify.app) | [LinkedIn](https://www.linkedin.com/in/amit-chakraborty-497485152) | [GitHub](https://github.com/techamit95ch)  
-🔗 [Codechef](https://www.codechef.com/users/techamit95ch) | [HackerRank](https://www.hackerrank.com/techamit95ch) | [HackerEarth](https://www.hackerearth.com/@techamit95ch) | [Techgig](https://www.techgig.com/techamit95ch) | [Codejam](https://codingcompetitions.withgoogle.com/codejam)
+📍 Location: Kolkata, West Bengal, India
+📱 Phone: +91-9874173663 | +91-9123030842
+📧 Email: amit98ch@gmail.com
+🌐 Portfolio: [https://amitchakraborty.netlify.app](https://amitchakraborty.netlify.app)
+🔗 LinkedIn: [https://www.linkedin.com/in/amit-chakraborty-497485152](https://www.linkedin.com/in/amit-chakraborty-497485152)
+📂 GitHub: [https://github.com/techamit95ch](https://github.com/techamit95ch)
+🏆 Codechef: [https://www.codechef.com/users/techamit95ch](https://www.codechef.com/users/techamit95ch)
+💡 HackerRank: [https://www.hackerrank.com/techamit95ch](https://www.hackerrank.com/techamit95ch)
+🌟 HackerEarth: [https://www.hackerearth.com/@techamit95ch](https://www.hackerearth.com/@techamit95ch)
+💻 Techgig: [https://www.techgig.com/techamit95ch](https://www.techgig.com/techamit95ch)
+🌐 Codejam: [https://codingcompetitions.withgoogle.com/codejam](https://codingcompetitions.withgoogle.com/codejam)
 
 ---
 
 ## Summary
 
-🚀 Accomplished React Native Full Stack Developer with a fervor for blockchain technology. Transitioning into a dedicated blockchain enthusiast, I have led numerous projects and served as a mentor for junior developers.
+I am an experienced React Native Full Stack Developer with a fervent interest in blockchain technology. I have a proven track record of leading projects, mentoring teams, and consistently delivering results. My expertise spans a wide range of technologies and frameworks, and I am committed to continuous learning and innovation. Beyond my technical skills, I am also a seasoned artist with a distinguished artistic journey, which has greatly contributed to my strong sense of UI design. My passion for mathematics has honed my logical thinking, and my nurturing nature enables me to effectively teach and guide others while fostering positive behavior and teamwork.
 
 ---
 
-## Experience
+## Professional Experience
 
 ### Full Stack Developer — Nonceblox Pvt. Ltd
 
 *Oct 2021 - Present*
-- 🔆 Orchestrated multiple React and React Native projects, providing mentorship to junior developers.
-- 🛠️ Engineered web interfaces, optimized database schemas, and crafted backend logic for optimal performance.
-- 💡 Pioneered the development of decentralized apps (dApps) with secure payment integration and cross-platform notifications.
-- 🌍 Delved into the transformative potential of blockchain across diverse industries.
-- **Achievements**:
-  - Designed and developed multiple mobile apps utilizing React Native, Next.js for front-end, Nest.js for back-end, and deployed them on AWS. Five of these applications are accessible on the Google Play Store.
-  - Solely managed and executed multiple projects, showcasing my project management skills.
-  - Contributed to various open-source projects, strengthening my commitment to the developer community.
+- Led multiple React and React Native projects while providing mentorship to junior developers.
+- Designed optimized web interfaces, crafted efficient database schemas, and developed backend logic to ensure peak performance.
+- Spearheaded the development of secure decentralized apps (dApps) with integrated cross-platform notifications.
+- Explored and implemented blockchain solutions across various industries, harnessing its transformative potential.
+- Published five mobile apps on the Google Play Store, utilizing React Native, Next.js, Nest.js, and AWS.
+- Efficiently managed multiple independent projects, demonstrating a high level of autonomy.
+- Made substantial contributions to open-source projects, underscoring a commitment to community-driven development.
 
 ### PHP Developer — Techpromind, Tollygunge
 
 *Jan 2018 - Sept 2018 (9 Months)*
-- 🎖️ Independently managed multiple significant projects.
-- 🛠️ Architected robust backend systems and proprietary PHP framework components.
-- 👥 Collaborated on government initiatives to enhance functionality and security.
-- **Achievement**: In 2018, I independently developed a proprietary PHP-based framework focused on custom security solutions.
+- Independently managed and executed high-impact projects.
+- Architected robust backend systems and developed proprietary PHP framework components.
+- Contributed to government initiatives aimed at enhancing functionality and security.
+- Pioneered the creation of a proprietary PHP-based security framework in 2018.
 
 ---
 
@@ -52,12 +57,12 @@
 
 ## Skill Set
 
-**Technical Expertise**: React, React Native, Node.js, Next.js, JavaScript, TypeScript, MongoDB  
-**UI Frameworks**: MUI, ChakraUI, Tailwind CSS  
-**Tools**: Github, Jira, Slack  
-**Foundational Understanding**: Nest.js, Ether.js, WEB3.1, MetaMask  
-**Prior Experience**: PHP/MySQL, Codeigniter, Django  
-**Eager to Learn**: Rust, NEAR, Ethereum Solidity, Solana  
+**Technical Expertise**: React, React Native, Node.js, Next.js, JavaScript, TypeScript, MongoDB
+**UI Frameworks**: MUI, ChakraUI, Tailwind CSS
+**Tools**: GitHub, Jira, Slack
+**Foundational Understanding**: Nest.js, Ether.js, WEB3.1, MetaMask
+**Prior Experience**: PHP/MySQL, Codeigniter, Django
+**Eager to Learn**: Rust, NEAR, Ethereum Solidity, Solana
 **Exploratory Endeavors**: NEXTUI, RAINBOW UI, Qwik JS, Vite, Gatsby, GraphQL
 
 ---
@@ -72,23 +77,23 @@
 
 ---
 
-## Educational Endeavors
+## Academic Endeavors
 
 **Major Project - MCA**:
 
-- MERN Stack note distribution platform with tutorial videos and a dynamic admin panel.
+- Developed a MERN Stack note distribution platform with tutorial videos and a dynamic admin panel.
 
 **Minor Project - MCA**:
 
-- MERN Stack note distribution and viewing app with Node.js (Backend), MongoDB, and React JS (Front end), integrated with Firebase.
+- Created a MERN Stack note distribution and viewing app with Node.js (Backend), MongoDB, React JS (Front end), and Firebase integration.
 
 **Major Project - BCA(H)**:
 
-- Developed a Matlab-based traffic signal data clustering system to improve traffic management.
+- Conducted Matlab-based traffic signal data clustering for improved traffic management.
 
 **Minor Project - BCA(H)**:
 
-- Conducted a C++ analysis and clustering project using Bayesian Methods and Fuzzy Logic for precise insights, utilizing Facebook data.
+- Applied C++ analysis and clustering with Bayesian Methods and Fuzzy Logic for precise insights using Facebook data.
 
 ---
 
@@ -96,21 +101,11 @@
 
 **Country Data Project - Summer Internship**:
 
-- Executed a data-intensive project employing Hive, Pig, RSql, Cloudera, and VMware for SQL queries, data export, and visualizations.
+- Undertook a data-intensive project using Hive, Pig, RSql, Cloudera, VMware for SQL queries, data export, and visualizations.
 
 **Job Portal - Summer Internship**:
 
-- Spearheaded the development of a job portal in Core PHP with real-time interactions, PDF_TO_TEXT capabilities, and user chart generation.
-
----
-
-## Personal Experimental Projects
-
-- **Custom UI Library "NEXTUI"**: Innovated a versatile UI library to expedite React application development.
-- **Interactive "RAINBOW UI"**: Pioneered a UI toolkit embracing vivid and interactive design components.
-- **"Qwik JS" Performance Experiment**: Evaluated the speed and efficiency of the Qwik JS framework for frontend development.
-- **"Vite" + Gatsby Hydration**: Synergized Vite and Gatsby to optimize frontend performance and hydration.
-- **GraphQL Integration with "Gatsby"**: Seamlessly integrated GraphQL queries into Gatsby-based projects.
+- Participated in job portal development in Core PHP, involving real-time interactions, PDF_TO_TEXT functionality, and user chart generation.
 
 ---
 
@@ -157,9 +152,7 @@
      - Additional features planned for future development
 
 7. **Next Amazon Ecommerce**
-   - Duration:
-
- 5 days (July 2021)
+   - Duration: 5 days (July 2021)
    - Technology: Next.js, JavaScript, React, MongoDB
    - Features:
      - Amazon Clone with user registration, login, cart functionality
@@ -202,7 +195,15 @@
 14. **Medicine App Web Application + Apps**
     - Rack management with IoT integration.
 
-...
+---
+
+## Personal Interests and Achievements
+
+- **Artistic Excellence**: Embarked on a distinguished artistic journey, garnering several awards, which has significantly contributed to my strong sense of UI design.
+
+- **Mathematics Enthusiast**: My passion for mathematics has honed my logical thinking and problem-solving abilities.
+
+- **Nurturing Nature**: My nurturing disposition enables me to effectively teach and guide others, promoting positive behavior and teamwork.
 
 ---
 
