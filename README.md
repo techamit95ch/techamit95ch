@@ -6,9 +6,13 @@
 
 ---
 
+
 ## Summary 🚀
 
-**Experienced React Native Full Stack Developer** ⛓️ with a strong passion for **blockchain technology**. Proven leadership in managing React and React Native projects, mentoring junior developers, and consistently delivering exceptional results. Adept at optimizing web interfaces, crafting efficient database schemas, and engineering secure decentralized apps (dApps) with cross-platform notifications 🛡️. Extensive experience in exploring and implementing blockchain solutions across diverse industries 🌍. Published five mobile apps on the Google Play Store 📱. Exceptional problem-solving skills honed through a deep-rooted passion for mathematics ➕.
+Experienced React Native Full Stack Developer ⛓️ with a fervent interest in blockchain technology. Proven track record of leading projects, mentoring teams, and consistently delivering results. Expertise spans a wide range of technologies and frameworks, committed to continuous learning and innovation. Beyond technical skills, seasoned artist with a distinguished artistic journey, greatly contributing to a strong sense of UI design 🎨. Passion for mathematics hones logical thinking ➕, and nurturing nature enables effective teaching, guidance, and fostering positive behavior and teamwork 🤝.
+
+Published five mobile apps on the Google Play Store 📱. Exceptional problem-solving skills honed through a deep-rooted passion for mathematics ➕.
+
 
 ---
 
