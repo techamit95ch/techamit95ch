@@ -1,72 +1,118 @@
 # Amit Chakraborty 🚀
 *Full Stack Developer*
 
-📍 Kolkata, West Bengal, India | 📱 +91-9874173663, +91-9123030842  
-📧 amit98ch@gmail.com | 🌐 [Portfolio](https://amitchakraborty.netlify.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/amit-chakraborty-497485152) | 📂 [GitHub](https://github.com/techamit95ch)  
-🏆 [Codechef](https://www.codechef.com/users/techamit95ch) | 💡 [HackerRank](https://www.hackerrank.com/techamit95ch) | 🌟 [HackerEarth](https://www.hackerearth.com/@techamit95ch)  
-💻 [Techgig](https://www.techgig.com/techamit95ch) | 🌐 [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)  
-
----
+🌍 Location: Kolkata, West Bengal, India | 📱 +91-9874173663 | 📧 amit98ch@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/amit-chakraborty-497485152) | 📂 [GitHub](https://github.com/techamit95ch) | 🏆 [Codechef](https://www.codechef.com/users/techamit95ch) | 💡 [HackerRank](https://www.hackerrank.com/techamit95ch)
+ 
 
 ## Summary 📝
 
-Experienced React Native Full Stack Developer with a strong interest in blockchain technology. Passionate about leading projects, mentoring teams, and delivering results. Proficient in various technologies and frameworks, dedicated to continuous learning and innovation. Accomplished artist with a knack for UI design. Mathematical background sharpens logical thinking. Effective in teaching, guidance, and teamwork. Published five mobile apps on the Google Play Store. Exceptional problem-solving skills developed through a deep-rooted passion for mathematics. 🚀
+Experienced React Native Full Stack Developer with a strong interest in blockchain technology. Proficient in a wide range of technologies and frameworks, committed to continuous learning and innovation. A passion for mathematics sharpens logical thinking and problem-solving abilities. Effective in teaching, guidance, and fostering teamwork. Published five mobile apps on the Google Play Store.
 
----
 
-## Professional Experience 💼
+## Professional Experience
 
 ### Full Stack Developer — Nonceblox Pvt. Ltd
 
-*Oct 2021 - Present*
-- Led multiple React and React Native projects while mentoring junior developers.
-- Designed optimized web interfaces, crafted efficient database schemas, and developed backend logic for peak performance.
-- Spearheaded secure decentralized app (dApp) development with cross-platform notifications.
-- Explored blockchain solutions across industries, unlocking transformative potential.
-- Published five mobile apps on the Google Play Store using React Native, Next.js, Nest.js, and AWS.
-- Efficiently managed multiple independent projects with a high level of autonomy.
-- Made substantial contributions to open-source projects, prioritizing community-driven development. 🌐
+*October 2021 - Present*
+- Led multiple React and React Native projects, providing mentorship.
+- Designed optimized web interfaces and efficient database schemas.
+- Spearheaded secure decentralized app (dApp) development.
+- Explored and implemented blockchain solutions across industries.
+- Published five mobile apps on the Google Play Store.
 
 ### PHP Developer — Techpromind, Tollygunge
 
-*Jan 2018 - Sept 2018 (9 Months)*
-- Managed and executed high-impact projects independently.
-- Architected robust backend systems and developed proprietary PHP framework components.
-- Contributed to government initiatives, enhancing functionality and security.
-- Pioneered a proprietary PHP-based security framework in 2018. 🔐
+*January 2018 - September 2018 (9 Months)*
+- Managed and executed high-impact projects.
+- Developed proprietary PHP framework components.
+- Contributed to government initiatives for enhanced functionality and security.
 
 ---
 
-## Education 🎓
+## Education
 
 ### Masters of Computer Application, Techno Main Salt Lake
 
-*Aug 2018 - Aug 2021 (3 years), DGPA: 8.61*
+*August 2018 - August 2021 (3 years), DGPA: 8.61*
 
 ### Bachelors of Computer Application, The Heritage Academy
 
-*Aug 2014 - Aug 2017 (3 years), DGPA: 7.3*
+*August 2014 - August 2017 (3 years), DGPA: 7.3*
 
 ---
 
-## Skill Set 💻
+## Skill Set
 
-**Technical Expertise**: React, React Native, Node.js, Next.js, JavaScript, TypeScript, MongoDB  
-**UI Frameworks**: MUI, ChakraUI, Tailwind CSS  
-**Tools**: GitHub, Jira, Slack  
-**Foundational Understanding**: Nest.js, Ether.js, WEB3.1, MetaMask  
-**Prior Experience**: PHP/MySQL, Codeigniter, Django  
-**Eager to Learn**: Rust, NEAR, Ethereum Solidity, Solana  
-**Exploratory Endeavors**: NEXTUI, RAINBOW UI, Qwik JS, Vite, Gatsby, GraphQL  
+**Technical Expertise**: React, React Native, Node.js, Next.js, JavaScript, TypeScript, MongoDB
+**UI Frameworks**: MUI, ChakraUI, Tailwind CSS
+**Tools**: GitHub, Jira, Slack
+**Foundational Understanding**: Nest.js, Ether.js, WEB3.1, MetaMask
+**Prior Experience**: PHP/MySQL, Codeigniter, Django
+**Eager to Learn**: Rust, NEAR, Ethereum Solidity, Solana
+**Exploratory Endeavors**: NEXTUI, RAINBOW UI, Qwik JS, Vite, Gatsby, GraphQL
 
 ---
 
-## Languages 🌐
+## Languages
 
-- Bengali (Native)
-- English (Professional, Moderate)
-- Hindi (Moderate)
+🇧🇩 Bengali (Native) | 🇬🇧 English (Professional, Moderate) | 🇮🇳 Hindi (Moderate)
+
+---
+
+## Hobbies
+
+💻 Programming | 📚 Reading | 💡 Problem Solving | 🎨 Art | 🔍 Experimentation
+
+---
+
+## Additional Details
+
+1. Mentoring new developers in mobile applications, native technology, and dApps.
+2. Structured various back-end, front-end, and native technology projects.
+3. Over 44 GitHub personal projects running.
+4. Created a proprietary PHP framework.
+5. Published 5 apps on both Play Store and App Store.
+6. Contributing to multiple small open-source projects related to native technology.
+7. Exploring desktop technology.
+
+---
+
+## Noteworthy Projects
+
+- **Merchant Distributor App**: Revolutionized offline bill creation for remote areas.
+- **Blockchain-powered Fantasy Sports App**: Orchestrated end-to-end development.
+- **Web3 Sports Prediction Platform**: Conceptualized and executed dynamic sports prediction frontend.
+- **Seed Bridge Project**: Established the foundational frontend for cross-chain transfers.
+- **Article App**: Enhanced user engagement with captivating animated content.
+
+---
+
+## Academic Endeavors
+
+**Major Project - MCA**:
+- Developed a MERN Stack note distribution platform with tutorial videos and a dynamic admin panel.
+
+**Minor Project - MCA**:
+- Created a MERN Stack note distribution and viewing app.
+
+**Major Project - BCA(H)**:
+- Conducted Matlab-based traffic signal data clustering.
+
+**Minor Project - BCA(H)**:
+- Applied C++ analysis and clustering with Bayesian Methods and Fuzzy Logic using Facebook data.
+
+---
+
+## Internship Contributions
+
+**Country Data Project - Summer Internship**:
+- Undertook a data-intensive project using Hive, Pig, RSql, Cloudera, VMware for SQL queries, data export, and visualizations.
+
+**Job Portal - Summer Internship**:
+- Participated in job portal development in Core PHP, involving real-time interactions, PDF_TO_TEXT functionality, and user chart generation.
+
+---
 
 
 ## Personal Projects 🚀
@@ -198,49 +244,31 @@ Experienced React Native Full Stack Developer with a strong interest in blockcha
 ---
 
 
-## Achievements 🏆
 
-- Mentorship of new developers in mobile applications, native technology, and dApps.
-- Structured numerous back-end, front-end, and native technology projects.
-- Created a proprietary PHP framework.
-- Developed multiple live projects.
-- Published 5 apps on both the Play Store and App Store.
-- Contributed to multiple small open-source projects related to native technology.
-- Currently focusing on desktop technology.
+## Certifications 🏅
 
----
-
-## Certifications 📜
-
-- Solidity & Ethereum With React And Next, Udemy, Online, Aug 2023 - Present
-- Rust Programming, Udemy, Online, Aug 2023 - Present
-- Near Blockchain, Udemy, Online, Aug 2023 - Present
-- Hyperledger Fabric: First Practical Blockchain, Udemy, Online, Aug 2023 - Present
-
----
-
-## Training 📚
-
-- Blockchain Development with Solidity, Coursera, Online, Sept 2023 - Present
-- Advanced React and Redux, Udemy, Online, Sep 2022 - Dec 2022
-- The Complete Node.js Developer Course, Udemy, Online, Aug 2022 - Sep 2022
+- Solidity & Ethereum With React And Next (Udemy, Online, Aug 2023 - Present)
+- Rust Programming (Udemy, Online, Aug 2023 - Present)
+- Near Blockchain (Udemy, Online, Apr 2023 - Present)
+- Statistics For Data Science (Great Learning, Online, Aug 2021 - Present)
+- SOFTWARE DEVELOPER (AI/ML) (Great Learning, Online, Jun 2021 - Present)
+- Basics Of Machine Learning (Great Learning, Online, May 2021)
+- Python For Machine Learning (Great Learning, Online, Apr 2021 - May 2021)
+- Python Fundamentals For Beginners (Great Learning, Online, Mar 2021 - Apr 2021)
+- DevOps Basics (Great Learning, Online, Mar 2021)
+- Introduction To Django (Great Learning, Online, Feb 2021)
+- PHP (Webskitters, Kolkata, Jul 2017 - Present)
+- Big Data Hadoop (Ardent Computech, Kolkata, May 2016 - Jun 2017)
 
 ---
 
 
-## Current Status 🌐
-
-🌟 Championing innovation, mastering development, and striving for excellence in all endeavors.
-- Actively contributing to blockchain projects.
-- Developing a new React Native app.
-- Exploring Rust programming language.
-
----
 
 
-## Interests
 
-|💻 Programming | 🎨 Artistic Excellence | ➕ Mathematics Enthusiast | 🤝 Nurturing Nature  | Reading
+## Interests 🎯
+
+Programming | Problem Solving | Experimenting with new technologie | Reading | 🎨 Artistic Excellence | ➕ Mathematics Enthusiast | 🤝 Nurturing Nature
 
 ---
 
@@ -258,7 +286,9 @@ Experienced React Native Full Stack Developer with a strong interest in blockcha
 
 ---
 
+## Current Status
 
+🌟 Championing innovation, mastering development, and striving for excellence in all endeavors.
 
 ---
 
@@ -267,13 +297,13 @@ Experienced React Native Full Stack Developer with a strong interest in blockcha
 📧 amit98ch@gmail.com | 📱 +91-9874173663
 
 ---
+
 ## References 📌
 
 Available upon request.
 
 ---
 
+
 "The only way to do great work is to love what you do." — Steve Jobs
-
-
 
