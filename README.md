@@ -109,7 +109,7 @@ Programming | Reading | Problem Solving | Art | Experimentation
 - Participated in job portal development in Core PHP, involving real-time interactions, PDF_TO_TEXT functionality, and user chart generation.
 
 ## Skill-building Ventures 🚀
-
+**Noteworthy Ventures:**
 1. Merchant Distributor App 📊: Revolutionized offline bill creation for remote areas.
 2. Blockchain-powered Fantasy Sports App 🏆: Orchestrated end-to-end development encompassing frontend, backend, native app, and smart contract integration.
 3. Web3 Sports Prediction Platform 🎯: Conceptualized and executed dynamic sports prediction frontend.
@@ -119,10 +119,11 @@ Programming | Reading | Problem Solving | Art | Experimentation
 7. Open-ended Arcade Game Plot Selling Portal 🎮: Implemented a robust authentication system.
 8. Cross-platform Uni-chain Uni-project Uni-platform App 📱: Ongoing development involving frontend and native app components.
 9. Article App 📰: Enhanced user engagement through captivating animated content representation (Native App).
-10. Cryptoverse (Sep '21): Project Link: [Cryptoverse](http://cryptoverse-amit.surge.sh)
+
 
 **More Skill-building Ventures:**
 
+10. Cryptoverse (Sep '21): Project Link: [Cryptoverse](http://cryptoverse-amit.surge.sh). 
 11. Merchant Platform (Sep '21): GitHub Link: [Merchant Platform](https://github.com/techamit95ch/merchantplatform).
 12. Stack Exchange- React Native (Aug '21): Project Link: [Stack Exchange](https://expo.dev/@amit98ch/stackExchange).
 13. React Video Chat App Attempt (Aug '21): GitHub Link: [Video Chat App](https://github.com/techamit95ch/videoChatApp) (Disclaimer: Won't work on Tor or Brave browser).
